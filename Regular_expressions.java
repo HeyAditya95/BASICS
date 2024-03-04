@@ -6,7 +6,6 @@ public class Regular_expressions {
         String str4 = "b2B";
         String str5 = "3";
         String str6 = " ";
-    
 
         //MATCHING SYMBOLS
 
@@ -25,7 +24,7 @@ public class Regular_expressions {
         // --false
         System.out.println(str1.matches("[^abc]"));  // ^ is known as except , for eg if we have [^abc] ,this means string should contain all letters except abc
         // --true
-        System.out.println(str2.matches("a|k"));   // "|" this means must be     --
+        System.out.println(str2.matches("a|k"));   // "|" this means must be     --true
         
         //META CHARACTERS
 
