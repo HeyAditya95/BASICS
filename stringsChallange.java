@@ -1,4 +1,4 @@
-public class regex {
+public class StringsChallenge {
     public static void main(String[] args) {
         String str = "HeyAditya95@gmail.com";   
         int i = str.indexOf("@");
