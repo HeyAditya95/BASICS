@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 public class StringsChallenge {
+=======
+public class stringsChallange {
+>>>>>>> 057ff9b (regex challenge)
     public static void main(String[] args) {
         String str = "HeyAditya95@gmail.com";   
         int i = str.indexOf("@");
