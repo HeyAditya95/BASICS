@@ -16,9 +16,6 @@ public class string_method_3 {
         System.out.println(str4 == str3);   //comparing object in which one is on pool and the other one in heap   -- false
 
 
-
-
-
         System.out.println("-----------------------------------------------------------------------------------------------------------------------------");
         // from here i am going to write my compare to method 
         // and the above one is equal to method

@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "Quantifiers",
+            "request": "launch",
+            "mainClass": "Quantifiers",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "RegexChallenge",
+            "request": "launch",
+            "mainClass": "RegexChallenge",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "Regular_expressions",
+            "request": "launch",
+            "mainClass": "Regular_expressions",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "StringsChallenge$stringsChallange",
+            "request": "launch",
+            "mainClass": "StringsChallenge$stringsChallange",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "SumOFNumbers",
+            "request": "launch",
+            "mainClass": "SumOFNumbers",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "Swap_with",
+            "request": "launch",
+            "mainClass": "Swap_with",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "area_of_triangle",
+            "request": "launch",
+            "mainClass": "area_of_triangle",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "conditional_statement",
+            "request": "launch",
+            "mainClass": "conditional_statement",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "cuboid",
+            "request": "launch",
+            "mainClass": "cuboid",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "quadratic_equation",
+            "request": "launch",
+            "mainClass": "quadratic_equation",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "string_method_1",
+            "request": "launch",
+            "mainClass": "string_method_1",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "string_method_2",
+            "request": "launch",
+            "mainClass": "string_method_2",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "string_method_3",
+            "request": "launch",
+            "mainClass": "string_method_3",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "strings",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
+            "name": "student_challenge_2",
+            "request": "launch",
+            "mainClass": "student_challenge_2",
+            "projectName": "udemy_2fc6b7fb"
+        }
+    ]
+}
