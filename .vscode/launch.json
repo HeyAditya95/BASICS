@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "conditional_statement_practice",
+            "request": "launch",
+            "mainClass": "conditional_statement_practice",
+            "projectName": "udemy_2fc6b7fb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
