@@ -4,11 +4,11 @@ public class conditional_statement_practice {
         // find a number which is odd or even 
         // find a person who is young or not young
         // find grace for given marks
-       // System.out.println("Enter the number : ");
-       // int number;
+        System.out.println("Enter the number : ");
+        int number;
         Scanner sc = new Scanner(System.in);
-       // number = sc.nextInt();
-       /*  if(number%2 == 0){
+        number = sc.nextInt();
+         if(number%2 == 0){
             System.out.println("number is even");
         } else {System.out.println("odd");};
 
@@ -24,7 +24,7 @@ public class conditional_statement_practice {
         } else {
             System.out.println("you are not young :-0 ");
         }
-       */
+       
 
         // find grace for given marks
         
@@ -53,7 +53,7 @@ public class conditional_statement_practice {
            }
            else 
            {
-               System.out.println("Grade E");
+               System.out.println("fail");
            
     
 
